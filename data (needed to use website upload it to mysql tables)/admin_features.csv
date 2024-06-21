@@ -1,0 +1,4 @@
+id,title,desc,adress,group,button_name,service,header
+1,"nage insurance provider","adding deleting insurance provider",/manageInsuranceProvider,INSURANCE,"Manage InsuranceProvider",1,0
+2,"manage medical code","adding medical codes",/manageMedicalCode,HEALTHCARE,"Manage Medical Code",1,0
+3,"Manage healthcareProvider","manage healthcare  provider",/manageHealthcareProvider,HEALTHCARE,"Manage Healthcare provider",1,0

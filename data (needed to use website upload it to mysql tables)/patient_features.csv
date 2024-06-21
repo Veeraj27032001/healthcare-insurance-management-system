@@ -1,0 +1,4 @@
+id,title,desc,adress,button_name,header,service
+4,"Buy Insurance","simplified way to buy insurance",/buyInsurance,Buy,0,1
+5,"My Policy","my policy desc",/myPolicy,"My Policy",0,1
+6,"Renew Policy","simplifing renewal process",/policyrenewal,"Policy Renewal",0,1

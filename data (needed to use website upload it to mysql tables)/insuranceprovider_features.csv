@@ -1,0 +1,3 @@
+id,title,desc,adress,button_name,header,service
+1,"manage Insurance policy","simplyfing management of insurance policy",/manageInsurancePolicy,"Manange policy",0,1
+2,"My Payment Detail","add payment detail",/paymentDetail,"Payment Detail",0,1
